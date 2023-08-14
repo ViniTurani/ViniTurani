@@ -21,7 +21,7 @@ Back-end and Web Development 🔙🌐
 Machine Learning
 
 ## Main Programming Languages 
-Python (+ PyTorch)  &nbsp; <img src="https://github.com/ViniTurani/ViniTurani/assets/107414584/4a1d804a-a4c7-42cf-8ce2-09ab6892f016" height=20> &nbsp;  <img src="https://github.com/ViniTurani/ViniTurani/assets/107414584/fe446dba-913e-4489-b43a-3633bf241339" height=23>
+Python + PyTorch  &nbsp; <img src="https://github.com/ViniTurani/ViniTurani/assets/107414584/4a1d804a-a4c7-42cf-8ce2-09ab6892f016" height=20> &nbsp;  <img src="https://github.com/ViniTurani/ViniTurani/assets/107414584/fe446dba-913e-4489-b43a-3633bf241339" height=23>
 
  Java  &nbsp;   <img src="https://github.com/ViniTurani/ViniTurani/assets/107414584/489bf450-fb2c-41d2-8690-a710ba78b544" height=25>
 
