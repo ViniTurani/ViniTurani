@@ -7,7 +7,7 @@
 
 Computer Science undergraduate at Pontifical Catholic University of Rio Grande do Sul (PUCRS) 🎓📚
 
-Software development intern at the [Software Innovation Laboratory](https://github.com/lispucrs) (Laboratório de Inovação em Software — LIS) from HP Inc./PUCRS 🖥️   
+Software development intern at the [Software Innovation Laboratory](https://github.com/lispucrs) (Laboratório de Inovação em Software - LIS) from HP Inc./PUCRS 🖥️   
 
 ### Fields of Interest 
 
