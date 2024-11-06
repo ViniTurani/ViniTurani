@@ -30,11 +30,6 @@ Machine Learning
  <img align="center" alt="Logo-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">   <img align="center" alt="Logo-HTML" width="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
 
 
-
-### Basic knowledge Programing Langueges
-
- <img align="center" alt="Logo-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">  <img align="center" alt="Logo-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">  <img align="center" alt="Logo-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniTurani&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniTurani&show_icons=true&theme=dark)  
 
