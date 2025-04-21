@@ -15,7 +15,7 @@ Artificial Intelligence (AI) 🤖🧠
 
 Software Engineering 💻🔧
 
-Back-end and Web Development 🔙🌐
+Back-end 🔙
 
 ### Current Projects
 Machine Learning
