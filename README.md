@@ -1,37 +1,11 @@
-### Hi there 👋
+🎓 I'm a Computer Science student in the final semesters of my degree at PUCRS (Brazil), with a strong focus on Artificial Intelligence and Machine Learning — both in theory and in practice.
 
+🧠 My main interests revolve around:
 
+- **Machine Learning & Artificial Intelligence** — I’m passionate about building intelligent systems and understanding how they work under the hood: from model architectures and training dynamics to optimization and deployment. My work ranges from classic ML pipelines to advanced deep learning models (including CNNs, Transformers, and LLMs).
+  
+- **Backend & Infrastructure for AI** — I enjoy designing scalable APIs, inference pipelines, and RAG architectures that bridge robust software engineering with real-world ML applications.
 
-### About 
+👨‍💻 I like working on projects that challenge both the **engineering** and **research** aspects of AI — such as writing interpreters, experimenting with fine-tuning models, or cleansing data.
 
-
-Computer Science undergraduate at Pontifical Catholic University of Rio Grande do Sul (PUCRS) 🎓📚
-
-Software development intern at [TeiaLabs](https://github.com/teialabs) 🖥️ 🤖🧑🏻‍💻  
-
-### Fields of Interest 
-
-Artificial Intelligence (AI) 🤖🧠
-
-Software Engineering 💻🔧
-
-Back-end 🔙
-
-### Current Projects
-Machine Learning
-
-
-### Main Programming Languages and frameworks 
- <img align="center" alt="Logo-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">   <img align="center" alt="Logo-HTML" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-plain-wordmark.svg"> <img align="center" alt="Logo-HTML" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg"> 
-
-
- <img align="center" alt="Logo-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
-
- <img align="center" alt="Logo-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">   <img align="center" alt="Logo-HTML" width="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniTurani&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniTurani&show_icons=true&theme=dark)  
-
--->
-
+🔭 I'm always exploring new tools and methods to push the boundaries of what AI systems can do — and I love building projects that make those ideas tangible and useful.
